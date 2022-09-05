@@ -92,8 +92,8 @@ const Git3 = () =>{
 }
 
 const Dep3 = () =>{
-	alert('OnGoing Project..... Not deployed yet');
-    window.open("https://pulkitbxtra.github.io/Yummy.io/");
+	alert("OnGoing Project.....Not Deployed Yet.");
+//     window.open("https://pulkitbxtra.github.io/Yummy.io/");
 }
 
 
