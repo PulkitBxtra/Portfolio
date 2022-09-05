@@ -92,6 +92,7 @@ const Git3 = () =>{
 }
 
 const Dep3 = () =>{
+	alert('OnGoing Project..... Not deployed yet');
     window.open("https://pulkitbxtra.github.io/Yummy.io/");
 }
 
